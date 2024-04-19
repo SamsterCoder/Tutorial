@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|c:\\users\\sammy\\documents\\github\\unity\\tutorial\\assets\\scripts\\cubemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\assets\\scripts\\cubemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|c:\\users\\sammy\\documents\\github\\unity\\tutorial\\assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E6525CD-FF2F-3D98-BFB0-971CC7B33E07}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DummyScript.cs",
               "ToolTip": "C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\Assets\\Scripts\\DummyScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\DummyScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T15:50:12.427Z"
             },
@@ -48,9 +48,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TestScript.cs",
               "ToolTip": "C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\Assets\\Scripts\\TestScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\TestScript.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:02:29.314Z"
+              "WhenOpened": "2024-04-18T14:02:29.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +61,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CubeMovement.cs",
               "ToolTip": "C:\\Users\\sammy\\Documents\\GitHub\\Unity\\Tutorial\\Assets\\Scripts\\CubeMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\CubeMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T13:56:55.935Z",
               "EditorCaption": ""
